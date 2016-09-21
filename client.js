@@ -22,6 +22,7 @@ var account = {
   password: 'Albertino92',
   customData: {
     favoriteColor: 'blanco'
+
   }
 };
 /*
